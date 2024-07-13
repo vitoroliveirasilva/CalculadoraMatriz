@@ -82,7 +82,7 @@ void OperacaoEscalar(int linhas, int colunas, double matriz[TamanhoMaximo][Taman
 
 Para utilizar o programa, compile e execute o arquivo `main.c` no compilador C de sua preferência. Siga as instruções exibidas na tela para selecionar a operação desejada e insira os elementos da matriz conforme solicitado. Assim, você poderá realizar as operações matriciais e obter os resultados desejados.
 
-<!-- Vou inserir o gif como exemplo de uso ainda -->
+![UsoCalculadoraMatriz](https://github.com/user-attachments/assets/d779625c-9fe5-4c47-88d3-fdacd211badd)
 
 <!-- Observações -->
 ## Nota
